@@ -30,25 +30,16 @@ def removeIsland(matrix):
 
 def main():
 
-    matrix = [
-        [0,1,0,0,1,0,1,1,1]
+    print("Hello world")
 
-
-
-
-
-
-
+    """matrix = [
+    [1, 0, 0, 0, 0, 0],
+    [0, 1, 0, 1, 1, 1],
+    [1, 1, 0, 0, 1, 0],
+    [1, 0, 1, 1, 0, 0],
+    [1, 0, 0, 0, 0, 1]
     ]
 
-
-
-
-
-
-
-
-
-
+    removeIsland(matrix)"""
 
     main()
